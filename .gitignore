@@ -1,0 +1,11 @@
+# Compiled binary
+heap_allocator
+
+# Object files
+*.o
+*.out
+
+# Editor/OS cruft
+*.swp
+*.swo
+.DS_Store
